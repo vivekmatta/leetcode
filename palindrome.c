@@ -1,3 +1,5 @@
+// Given an integer x, return true if x is a palindrome, and false otherwise.
+
 bool isPalindrome(int x) {
 
   if (x < 0) {
